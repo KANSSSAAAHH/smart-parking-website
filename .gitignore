@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+smartpark.sqlite3
+smartpark.sqlite3-shm
+smartpark.sqlite3-wal
